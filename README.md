@@ -1,2 +1,2 @@
-# stackrail
-This is an android app based on railway in which all the update regarding their train display on notification tab of the app.
+# Train Details
+This is an android app which tells all the details and update of user's train.
